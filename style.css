@@ -12,7 +12,7 @@ th, td {
 }
 html {
 	background-color: 1bafa5;
-	font-family: Grande, sans-serif;	
+	font-family: 'Source Code Pro', monospace;
 	text-align: center;
 }
 tr:nth-child(even) {
